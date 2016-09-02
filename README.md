@@ -25,6 +25,8 @@ The Analyze button on the Results Page will generate a plot depicting the decisi
 SOON TO COME:
 
 More analysis of each classification
+
 Support for excel files
+
 Support for higher dimensional data
 
